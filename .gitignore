@@ -3,3 +3,7 @@
 ################################################################################
 
 /TcpSerialWin32Service/obj/x86/Debug
+/TcpSerialServiceConsole/obj/Debug
+/Slistener.TcpSerial.Service/obj/Debug
+/obj/Debug
+/bin/Debug
