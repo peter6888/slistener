@@ -1,0 +1,83 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SListener", "SListener.csproj", "{336E035B-621D-4AB4-8E26-935896C6BADE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TcpSerialServiceConsole", "TcpSerialServiceConsole\TcpSerialServiceConsole.csproj", "{B5FD42B6-8B8E-414C-B86E-7E8294AC945D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slistener.TcpSerial.Service", "Slistener.TcpSerial.Service\Slistener.TcpSerial.Service.csproj", "{C7BBAE45-AD1F-4E51-A991-0FCBE1179E82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TcpSerialWin32Service", "TcpSerialWin32Service\TcpSerialWin32Service.csproj", "{8A35E2C8-6945-42B0-A251-D9BD02536233}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://vstfxbox:8080/tfs/ieb
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = SListener.csproj
+		SccLocalPath1 = .
+		SccProjectUniqueName2 = TcpSerialServiceConsole\\TcpSerialServiceConsole.csproj
+		SccProjectName2 = TcpSerialServiceConsole
+		SccLocalPath2 = TcpSerialServiceConsole
+		SccProjectUniqueName3 = Slistener.TcpSerial.Service\\Slistener.TcpSerial.Service.csproj
+		SccProjectName3 = Slistener.TcpSerial.Service
+		SccLocalPath3 = Slistener.TcpSerial.Service
+		SccProjectUniqueName4 = TcpSerialWin32Service\\TcpSerialWin32Service.csproj
+		SccProjectName4 = TcpSerialWin32Service
+		SccLocalPath4 = TcpSerialWin32Service
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{336E035B-621D-4AB4-8E26-935896C6BADE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{336E035B-621D-4AB4-8E26-935896C6BADE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{336E035B-621D-4AB4-8E26-935896C6BADE}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{336E035B-621D-4AB4-8E26-935896C6BADE}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{336E035B-621D-4AB4-8E26-935896C6BADE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{336E035B-621D-4AB4-8E26-935896C6BADE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{336E035B-621D-4AB4-8E26-935896C6BADE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{336E035B-621D-4AB4-8E26-935896C6BADE}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{336E035B-621D-4AB4-8E26-935896C6BADE}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{336E035B-621D-4AB4-8E26-935896C6BADE}.Release|x86.ActiveCfg = Release|Any CPU
+		{B5FD42B6-8B8E-414C-B86E-7E8294AC945D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5FD42B6-8B8E-414C-B86E-7E8294AC945D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5FD42B6-8B8E-414C-B86E-7E8294AC945D}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{B5FD42B6-8B8E-414C-B86E-7E8294AC945D}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{B5FD42B6-8B8E-414C-B86E-7E8294AC945D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B5FD42B6-8B8E-414C-B86E-7E8294AC945D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5FD42B6-8B8E-414C-B86E-7E8294AC945D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5FD42B6-8B8E-414C-B86E-7E8294AC945D}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{B5FD42B6-8B8E-414C-B86E-7E8294AC945D}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{B5FD42B6-8B8E-414C-B86E-7E8294AC945D}.Release|x86.ActiveCfg = Release|Any CPU
+		{C7BBAE45-AD1F-4E51-A991-0FCBE1179E82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7BBAE45-AD1F-4E51-A991-0FCBE1179E82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7BBAE45-AD1F-4E51-A991-0FCBE1179E82}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{C7BBAE45-AD1F-4E51-A991-0FCBE1179E82}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{C7BBAE45-AD1F-4E51-A991-0FCBE1179E82}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C7BBAE45-AD1F-4E51-A991-0FCBE1179E82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7BBAE45-AD1F-4E51-A991-0FCBE1179E82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7BBAE45-AD1F-4E51-A991-0FCBE1179E82}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{C7BBAE45-AD1F-4E51-A991-0FCBE1179E82}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{C7BBAE45-AD1F-4E51-A991-0FCBE1179E82}.Release|x86.ActiveCfg = Release|Any CPU
+		{8A35E2C8-6945-42B0-A251-D9BD02536233}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{8A35E2C8-6945-42B0-A251-D9BD02536233}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{8A35E2C8-6945-42B0-A251-D9BD02536233}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{8A35E2C8-6945-42B0-A251-D9BD02536233}.Debug|x86.ActiveCfg = Debug|x86
+		{8A35E2C8-6945-42B0-A251-D9BD02536233}.Debug|x86.Build.0 = Debug|x86
+		{8A35E2C8-6945-42B0-A251-D9BD02536233}.Release|Any CPU.ActiveCfg = Release|x86
+		{8A35E2C8-6945-42B0-A251-D9BD02536233}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{8A35E2C8-6945-42B0-A251-D9BD02536233}.Release|Mixed Platforms.Build.0 = Release|x86
+		{8A35E2C8-6945-42B0-A251-D9BD02536233}.Release|x86.ActiveCfg = Release|x86
+		{8A35E2C8-6945-42B0-A251-D9BD02536233}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
